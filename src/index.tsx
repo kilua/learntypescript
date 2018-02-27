@@ -9,3 +9,10 @@ ReactDOM.render(
   document.getElementById('root') as HTMLElement
 );
 registerServiceWorker();
+ 
+// var test = {
+//   create : function(config){
+//     console.log(config);
+
+//   }
+// }
